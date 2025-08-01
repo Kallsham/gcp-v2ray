@@ -1,12 +1,12 @@
 {
   "inbounds": [
     {
-      "port": 8080,
+      "port": 80,
       "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "id": "36459fd0-0c89-4733-b20e-067ffc341bd2",
+            "id": "c28c6ced-d57b-4005-8efc-24e69995d090",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/TG-@Not_Ragnar"
+          "path": "/TG-huhu"
         }
       }
     }
